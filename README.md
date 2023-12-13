@@ -2,7 +2,7 @@
 
 ## About
 
-Loading ... <b>Compilation error</b>. Oh! I didn't declare that variable x. _corrected_ </br>
+Loading .... <b>Compilation error</b>. Oh! I didn't declare that variable x. _corrected_ </br>
 _Compile_ Now.. Loading ... <b>Runtime error</b>. Wtf! ... Oh! The array size is 1000 and I entered 100. _corrected_ </br>
 _Compile_ Loading ... <b>Wrong Answer</b>. In sample test case itself?!? Ohhh !! I forgot to update flag value. _corrected_ </br>
 _Compile_ Loading ... <b>Sample test cases passed</b>. _Cross check with extra cases generated on your own, gives AC._ </br>
